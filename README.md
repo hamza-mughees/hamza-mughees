@@ -1,5 +1,6 @@
 
-<img src="banner.gif" width="850">
+<!--<img src="banner.gif" width="850">-->
+![banner](banner.gif)
 
 <!--
 **hamza-mughees/hamza-mughees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
