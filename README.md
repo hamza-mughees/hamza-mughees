@@ -1,7 +1,7 @@
 
 <div style="fong-size:0;">
   <img src="banner.gif">
-  <img src="black.png" width="250" height="94"/>
+  <img src="black.png" width="200" height="94"/>
 </div>
 <!--
 **hamza-mughees/hamza-mughees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
